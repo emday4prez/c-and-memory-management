@@ -1,1 +1,1 @@
-# union
+# C and memory management
