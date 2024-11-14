@@ -3,6 +3,8 @@
 
 int main() {
   printMessageOne();
+  printMessageTwo();
+  printMessageThree();
   return 0;
 }
 
@@ -10,14 +12,14 @@ void printMessageOne() {
   const char *message = "Dark mode?\n";
   printStackPointerDiff();
   printf("%s\n", message);
-  printMessageTwo();
+
 }
 
 void printMessageTwo() {
   const char *message = "More like...\n";
   printStackPointerDiff();
   printf("%s\n", message);
-  printMessageThree();
+  
 }
 
 void printMessageThree() {
