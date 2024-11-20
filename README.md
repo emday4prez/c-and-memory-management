@@ -1,1 +1,1 @@
-# C and memory management
+# Learning Memory Management with C.
